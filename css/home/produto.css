@@ -1,0 +1,28 @@
+.produto h1 {
+  color: #000000;
+  padding-top: 40px;
+  padding-bottom: 40px;
+     padding-left: 100px;
+    
+  }
+  .produto h1 span {
+   color: #b30000;
+  }
+ ul{
+   display:flex;
+   gap: 40px;
+   padding left: ;0px;
+   max-width: 1400px;
+   margin-:0px;
+  
+  }
+ 
+ li{
+  
+   display flex:1px;
+   max-width: 210px;
+  
+ }
+ img{
+   width: 220px;
+   }
