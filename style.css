@@ -1,8 +1,15 @@
-@import"css/utilidades/tipografia.css";
 @import" css/global/global.css";
+@import"css/utilidades/tipografia.css";
+@import"css/utilidades/cores.css";
 @import" css/global/header.css";
+@import" css/utilidades/componentes.css";
+/*footer*/
 @import" css/global/footer.css";
+/*home*/
 @import" css/home/introducao.css";
 @import" css/home/produto.css";
 @import" css/home/estoque.css";
+@import"css/cabos/isolado15kv.css"; 
+@import"css/cabos/multiplexado1kv.css";
+
 

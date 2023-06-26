@@ -1,24 +1,9 @@
-.estoque h1 {
-  color: #000000;
-  padding-top: 40px;
- padding-bottom: 40px;
-    padding-left: 100px;
+.estoque{color:#000000;padding-top:30px; padding-left:80px;}
 
-}
-.estoque h1 span{
-  padding:10px 0px 5px 15px;
-  padding-bottom: 5px;
-width:30px;
-height: 40px ;
- background-color: #b30000;
- display: inline-flex;
-}
+.p1 {padding:10px 0px 5px 15px; padding-bottom: 5px; width:30px;
+height:47px; background-color:#b30000; display:inline-flex;}
 
-p{
-padding-left: 200px;
+.estoque-produtos{display:grid;  grid-template-columns:1fr 0.9fr;
+; padding-top:50px; padding-left:80px;}
 
-}
-
-#imagem{
-  width: 600px;
-    }
+#imagem{width:500px; height: 300px; margin-top:100px;}

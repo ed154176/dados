@@ -1,0 +1,29 @@
+.rotacao{position:absolute;right:0; padding-top:20px; padding-right: 65px;}
+
+#rotacao{width:300px; height:300px; transform:rotate(-120deg);}
+
+.introducao-cb{width:90%; margin-top:100px; margin-left:100px;
+padding-left:0px;}
+
+h1{ color:#006a97;}
+
+.cb{color: #b30000;}
+
+h3{ font-size: 24px;}
+p{  margin-left: 0px;  padding-left: 0px; }
+
+.grid{display:grid; grid-template-columns:1fr 2fr; margin-left:60px}
+
+#cabo-quadruplex{transform:rotate(-180deg); width:400px; height:400px;}
+
+.lista{color:#b30000; font-size:12px; padding-top:0px;}
+
+#lista{width:20px;}
+
+#ni{background:#eaeff5;}
+
+#quadruplex{width:400px;   height:230px;}
+
+.texto-normal{color:#00a0e3;}
+
+.aplicacao{max-width:1200px; margin:0 auto; padding:60px 0; display:flex; flex-wrap:wrap}

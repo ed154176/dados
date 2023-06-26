@@ -1,20 +1,15 @@
-.texto-grande{
-  font-size: 72px;
-  line-height: 60px;
-  font-family: "Poppins";
-font-weight: 600;
-}
+/*line-height:altura
+font-weight:espessuar
+letter-spacing:espaço entre letras*/
 
-.texto-medio{
-  font-size: 50px;
-  line-height: 40px;
-  font-family: "Poppins";
-  font-weight: 600;
-}
+.texto-gg{ font-size:80px; line-height:60px; font-family:"Poppins"; font-weight:600;letter-spacing:4px;}
 
-.texto-pequeno{
-  font-size: 16px;
-  line-height: 20px;
-  font-family: "Roboto";
-  font-weight: 400;
-}
+.texto-grande{font-size:60px; line-height:60px; font-family:"Poppins"; font-weight:600; letter-spacing: 4px;}
+
+.texto-medio{font-size: 40px; line-height:40px; font-family:"Poppins"; font-weight:400;}
+
+.texto-normal{font-size:32px; line-height:40px; font-family:"Roboto", sans-serif; font-weight:500;}
+
+.texto-pequeno{font-size:20px; line-height: 25px; font-family:"Roboto", sans-serif; font-weight:400;}
+
+.texto-minimo{font-size:14px; line-height:20px; font-family:"Roboto", sans-serif; font-weight:400;}
