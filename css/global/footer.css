@@ -1,6 +1,6 @@
 .footer-bg{background:#fffff;}
 
-.footer {display:grid; grid-template-columns:1fr 1fr 1fr;}
+.footer {display:grid; grid-template-columns:0.8fr 0.8fr 0.8fr;}
 
 .footer h2{margin-bottom:32px;}
 
@@ -12,7 +12,7 @@
 
 .footer-redes{display:flex; gap:32px;}
  
-.footer a:hover{color: #000000;}
+.footer a:hover{color:#000000;}
 
 .footer-redes img{width: 40px;}
 
@@ -24,4 +24,4 @@
 
 @media(max-width:600px) {.footer {grid-template-columns: 1fr; gap:60px;}
 }
-.footer-copy{margin-left:600px;}
+.footer-copy{margin-top:50px; margin-left:30px;}

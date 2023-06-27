@@ -4,6 +4,7 @@
 
 /*span*/
 .p1{color:#b30000;}
+.p13{color:##000000;}
 
 /*preto*/
 .p09{color:#003c54;}
@@ -29,22 +30,22 @@
 .b16{color:#c8d6e4;}
 
 /*azul*/
-.az09{color:#31c2ff;}
-.az10{color:#17bbff;}
-.az11{color:#00b2fd;}
-.az12{color:#00a0e3;}
-.az13{color:#008eca;}
-.az14{color:#007cb0;}
-.az15{color:#006a97;}
+.a09{color:#31c2ff;}
+.a10{color:#17bbff;}
+.a11{color:#00b2fd;}
+.a12{color:#00a0e3;}
+.a13{color:#008eca;}
+.a14{color:#007cb0;}
+.a15{color:#006a97;}
 
 /*vermelho*/
-.vm09{color:#ff4d4d;}
-.vm10{color:#ff3333;}
-.vm11{color:#ff1a1a;}
-.vm12{color:#ff0000;}
-.vm13{color:#e60000;}
-.vm14{color:#cc0000;}
-.vm15{color:#b30000;}
+.v09{color:#ff4d4d;}
+.v10{color:#ff3333;}
+.v11{color:#ff1a1a;}
+.v12{color:#ff0000;}
+.v13{color:#e60000;}
+.v14{color:#cc0000;}
+.v15{color:#b30000;}
 
 
 /*verde*/
